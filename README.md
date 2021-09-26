@@ -1,5 +1,5 @@
-# ForgeGBCalculator
-Calculates Forge of Empire Great Building levels for 1.9 threads
+# Forge Great Building Calculator
+Calculates Forge of Empires Great Building levels for 1.9 threads
 
 There are two things you need to know about this spreadsheet:
 1. How to use it
